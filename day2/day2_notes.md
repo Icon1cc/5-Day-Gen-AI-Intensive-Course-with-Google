@@ -1,7 +1,6 @@
 # 📘 Day 2: Embeddings & Vector Stores
 
 **Podcast:** [Whitepaper Companion - Embeddings & Vector Stores](https://www.youtube.com/watch/xCAVsst6WJ8)  
-**Transcript Source:** tactiq.io  
 **Part of:** 5-Day Generative AI Intensive  
 **Author:** Rishabh Tiwari (rishtiwari98@gmail.com)  
 

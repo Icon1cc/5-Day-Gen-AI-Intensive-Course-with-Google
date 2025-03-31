@@ -1,7 +1,6 @@
 # 📘 Day 1: Foundational Models & Prompt Engineering
 
 **Podcast:** [Whitepaper Companion - Foundational LLMs & Text Generation](https://www.youtube.com/watch/Na3O4Pkbp-U)  
-**Transcript Source:** tactiq.io  
 **Part of:** 5-Day Generative AI Intensive  
 **Author:** Rishabh Tiwari (rishtiwari98@gmail.com)  
 
