@@ -1,8 +1,8 @@
-# 🧠 5-Day Generative AI Intensive (31st March - 5th April)
+# 🧠 5-Day Generative AI Intensive (31st March - 4th April)
 
 Welcome to my personal learning hub for the **5-Day Generative AI Intensive**, an online program hosted by Google’s ML researchers and engineers. This repository contains my **notes, summaries, code, and learnings** from each day of the course.
 
-📅 **Course Dates:** March 31st to 5th April  
+📅 **Course Dates:** March 31st to 4th April  
 🌐 **Hosted by:** Google Research & Kaggle  
 🎓 **Format:** Daily whitepapers, podcasts, code labs, livestreams, and community discussions
 
